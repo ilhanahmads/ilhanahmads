@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilhan</h1>
-<h3 align="center">An Undergraduate Information Technology Student at Institut Teknologi Sepuluh Nopember</h3>
+<h3 align="center">An Undergraduate Information Technology Student at Sepuluh Nopember Institute of Technology</h3>
 <hr>
-Hi, I am a sophomore student at Department of Information Technology ITS. I do love everything related to technology, especially Internet of Things (IoT), Artificial Intelligent (AI) and its application in various fields.
+Hi, I am a sophomore student at Sepuluh Nopember Institute of Technology. I do love everything related to technology, especially Internet of Things (IoT), Artificial Intelligent (AI) and its application in various fields.
 <hr>
 
 - 🔭 I’m currently working on [AMPP](https://ampp-its.org/)
