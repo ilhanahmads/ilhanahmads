@@ -1,4 +1,4 @@
-![MasterHead](https://images.supersport.com/media/4bgnyidu/man-city-2023-g-1200.jpg?width=1080&quality=90&format=webp)
+![MasterHead](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
 <h1 align="center">Hi 👋, I'm Ilhan</h1>
 <h3 align="center">An Undergraduate Information Technology Student at Sepuluh Nopember Institute of Technology</h3>
 <hr>
@@ -8,7 +8,6 @@ Hi, I am a sophomore student at Sepuluh Nopember Institute of Technology. I do l
 - 🔭 I’m currently working on [AMPP](https://ampp-its.org/)
 - 💻 I’m currently learning **Next.js**
 - 📫 How to reach me **ilhanahmadsyf@gmail.com**
-- ⚡ Fun fact **I'm a Cityzens** 💙
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
