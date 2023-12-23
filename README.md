@@ -1,9 +1,12 @@
-![MasterHead](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Ilhan</h1>
 <h3 align="center">An Undergraduate Information Technology Student at Sepuluh Nopember Institute of Technology</h3>
+
 <hr>
 Hi, I am a sophomore student at Sepuluh Nopember Institute of Technology. I do love everything related to technology, especially Internet of Things (IoT), Artificial Intelligent (AI) and its application in various fields.
 <hr>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" >
 
 - 🔭 I’m currently working on [AMPP](https://ampp-its.org/)
 - 💻 I’m currently learning **Next.js**
