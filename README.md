@@ -6,10 +6,9 @@ Hi, I am a sophomore student at Sepuluh Nopember Institute of Technology. I do l
 <hr>
 
 - 🔭 I’m currently working on [AMPP](https://ampp-its.org/)
-
-- 🌱 I’m currently learning **Next.js**
-
+- 💻 I’m currently learning **Next.js**
 - 📫 How to reach me **ilhanahmadsyf@gmail.com**
+- ⚡ Fun fact **I'm a Cityzens** 💙
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
