@@ -4,10 +4,6 @@
 <h3 align="center">Undergraduate Information Technology Student at Sepuluh Nopember Institute of Technology</h3>
 </div>
 
-- 🔭 I’m currently working on [AMPP](https://ampp-its.org/)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 📝 I regularly write articles on [https://medium.com/@ilhanahmadsyf](https://medium.com/@ilhanahmadsyf)
 
 - 📫 How to reach me **ilhanahmadsyf@gmail.com**
